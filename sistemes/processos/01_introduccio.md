@@ -1,2 +1,2 @@
-# <strong>Introduccio
+# Introduccio
 
