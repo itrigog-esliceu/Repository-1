@@ -22,3 +22,7 @@
 ·Supervisen i coordinen el flux general dels processos informàtics.
 
 ·Involucren sistemes operatius i programari de control per garantir l'eficiència i la integritat del sistema.
+
+<Strong>Tornar a sistemes</Strong>-->https://github.com/itrigog-esliceu/Repository-1/tree/main/sistemes
+
+<Strong>Fitxer principal</Strong>-->https://github.com/itrigog-esliceu/Repository-1/blob/main/README.md

@@ -11,3 +11,7 @@ També conegut com a estat de bloqueig, el procés es troba en aquest estat quan
 
 ## Transició d'estats
 !["transició processos"](processos.png)
+
+<Strong>Tornar a sistemes</Strong>-->https://github.com/itrigog-esliceu/Repository-1/tree/main/sistemes
+
+<Strong>Fitxer principal</Strong>-->https://github.com/itrigog-esliceu/Repository-1/blob/main/README.md
