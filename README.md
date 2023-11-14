@@ -5,7 +5,7 @@ Aquesta informacio es menys important,<Strong>pero la que ve ara es mes importan
 La informacio del <em> Apartat 2 </em> es meny important que la del <em>Apartat 1.</em>
 
 ### Apartat 3
-Aixo es un enllaç a github https://github.com/itrigog-esliceu/Repository-1#readme
+Aixo es un enllaç a github https://github.com/dashboard
 
 #### Apartat 4
 Una llista
