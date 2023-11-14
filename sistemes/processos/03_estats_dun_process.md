@@ -2,7 +2,7 @@
 
 <Strong>Ready:</Strong>
  El procés està carregat a la memòria i està a punt d'executar-se, però encara no s'ha assignat el temps de CPU. En un sistema amb múltiples processadors o nuclis, diversos processos poden estar en aquest estat esperant el seu torn d'execució.
- 
+
 <Strong>Run:</Strong>
  Aquest és l'estat en què el procés està realment executant-se a la CPU. Només pot haver-hi un procés en aquest estat per cada nucli de la CPU.
 
