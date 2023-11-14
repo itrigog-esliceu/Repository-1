@@ -1,5 +1,5 @@
 # Repository-1
-Aquesta informacio es menys important,<Strong>pero la que ve ara es mes important.</Strong>
+<Strong>Apunts</Strong>-->https://github.com/itrigog-esliceu/Repository-1/tree/main/sistemes/processos
 
 ## Apartat 2
 La informacio del <em> Apartat 2 </em> es meny important que la del <em>Apartat 1.</em>
